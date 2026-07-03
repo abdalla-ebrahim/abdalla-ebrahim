@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Abdalla Ebrahim 👋
 
-<!--
-**abdalla-ebrahim/abdalla-ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)** in Alexandria, Egypt — graduating **February 2027**.
 
-Here are some ideas to get you started:
+I'm building a career in **cybersecurity**, currently exploring **cloud security** as my specialization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm working toward
+
+- Building strong foundations: networking, operating systems, and security fundamentals
+- Exploring cybersecurity specializations — cloud security is the current front-runner
+- Creating hands-on projects and documenting everything I learn, right here
+
+## 🚧 Projects
+
+Hands-on projects are landing here soon — each one built to learn something real.
+
+<!-- CONTACT: LinkedIn + contact links will be added here in a later phase -->
