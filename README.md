@@ -2,7 +2,7 @@
 
 Computer Engineering student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)** in Alexandria, Egypt — graduating **February 2027**.
 
-I'm building a career in **cybersecurity**, focused on **security operations (SOC / blue team)**. Currently: a 6-month cybersecurity diploma (Security+, attack techniques, SOC operations, and SIEM with QRadar & Splunk — finishing Dec 2026) and a networking & security internship at **Systel** (Summer 2026).
+I'm building a career in **cybersecurity**, focused on **security operations (SOC / blue team)**. Currently: a 6-month cybersecurity diploma at **AMIT** (Security+, attack techniques, SOC operations, and SIEM with QRadar & Splunk — finishing Dec 2026) and a networking & cybersecurity internship at **Systel** (Aug–Sep 2026).
 
 ## 🔐 Featured projects
 
@@ -22,12 +22,15 @@ I'm building a career in **cybersecurity**, focused on **security operations (SO
 
 **From projects:** Python · PyTorch · TensorFlow/Keras · C/C++ (Arduino, OpenGL) · Cisco IOS — OSPF, VLANs, subnetting, device hardening · SQL/MySQL · ESP32 & embedded systems · Git/GitHub
 
-**Currently training on (diploma → Dec 2026):** Linux security & administration · CompTIA Security+ domains · attack techniques & defense · SOC operations (SANS SEC450-based curriculum) · SIEM — QRadar & Splunk
+**Security lab:** VMware virtualization · Kali Linux · Ubuntu
+
+**In training (AMIT diploma → Dec 2026):** Linux security & administration · CompTIA Security+ domains · attack techniques & defense · SOC operations (SEC450-based curriculum) · SIEM — QRadar & Splunk
 
 ## 🎓 Education & training
 
 - B.Sc. Computer Engineering — AASTMT, expected **February 2027**
-- Cybersecurity Diploma — in progress, **June–December 2026**
-- Networking & Cybersecurity Internship — **Systel**, Summer 2026
+- Cybersecurity Diploma — **AMIT**, June–December 2026 (in progress)
+- Networking & Cybersecurity Internship — **Systel**, Aug–Sep 2026
+- Machine Learning Training — **ICTHUB**, July 2025
 
 <!-- CONTACT: LinkedIn + contact links will be added in Phase 5 -->
