@@ -18,6 +18,10 @@ I'm building a career in **cybersecurity**, focused on **security operations (SO
 - [ECG Stress Detection](https://github.com/abdalla-ebrahim/ecg-stress-detection-cnn) — 1D CNN vs. attention model on raw ECG, evaluated subject-independently; the simpler model generalized better.
 - [Brain Tumor MRI Classification](https://github.com/abdalla-ebrahim/brain-tumor-mri-classification) — four architectures compared on 7,000+ scans, 96% test accuracy with disciplined evaluation.
 
+**Also on GitHub**
+- [Pharmacy Management System](https://github.com/abdalla-ebrahim/pharmacy-database-system) — 8-table MySQL relational database with enforced integrity constraints.
+- [Neon Rhythm Highway](https://github.com/abdalla-ebrahim/neon-rhythm-highway) — real-time 3D lane-catcher game in C++ with OpenGL/GLUT.
+
 ## 🛠️ Skills
 
 **From projects:** Python · PyTorch · TensorFlow/Keras · C/C++ (Arduino, OpenGL) · Cisco IOS — OSPF, VLANs, subnetting, device hardening · SQL/MySQL · ESP32 & embedded systems · Git/GitHub
