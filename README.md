@@ -2,7 +2,7 @@
 
 Computer Engineering student at the **Arab Academy for Science, Technology & Maritime Transport (AASTMT)** in Alexandria, Egypt — graduating **February 2027**.
 
-I'm building a career in **cybersecurity**, focused on **security operations (SOC / blue team)**. Currently: a 6-month cybersecurity diploma at **AMIT** (Security+, attack techniques, SOC operations, and SIEM with QRadar & Splunk — finishing Dec 2026) and a networking & cybersecurity internship at **Systel** (Aug–Sep 2026).
+I'm building a career in **cybersecurity**, focused on **security operations (SOC / blue team)**. Currently: a 6-month cybersecurity diploma at **AMIT** (Security+, attack techniques, SOC operations, and SIEM with QRadar & Splunk — finishing Dec 2026) and a networking & cybersecurity internship at **Systel Telecom** (Aug–Sep 2026).
 
 ## 🔐 Featured projects
 
@@ -30,7 +30,7 @@ I'm building a career in **cybersecurity**, focused on **security operations (SO
 
 - B.Sc. Computer Engineering — AASTMT, expected **February 2027**
 - Cybersecurity Diploma — **AMIT**, June–December 2026 (in progress)
-- Networking & Cybersecurity Internship — **Systel**, Aug–Sep 2026
+- Networking & Cybersecurity Internship — **Systel Telecom**, Aug–Sep 2026
 - Machine Learning Training — **ICTHUB**, July 2025
 
 <!-- CONTACT: LinkedIn + contact links will be added in Phase 5 -->
